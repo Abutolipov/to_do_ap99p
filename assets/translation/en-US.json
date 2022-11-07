@@ -1,0 +1,17 @@
+{
+  "home_page": "HomePage",
+  "profile": "Profile",
+  "app_setting": "App Setting",
+  "setting": "setting",
+  "account": "account",
+  "task_left": "Task Left",
+  "task_done": "Task Done",
+  "name": "Change account name",
+  "password": "Change account password",
+  "image": "Change account image",
+  "out": "Lod out",
+  "sub": "Support US",
+  "help": "Help & Feedback",
+  "faq": "FAQ",
+  "about": "About US"
+}
