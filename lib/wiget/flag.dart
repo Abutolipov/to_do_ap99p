@@ -39,7 +39,7 @@ class _button3State extends State<button3> {
                             height: 6,
                           ),
                           Container(
-                            width: 340,
+                            width: 341,
                             height: 2,
                             color: Colors.grey,
                           )
